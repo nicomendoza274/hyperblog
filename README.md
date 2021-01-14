@@ -14,3 +14,4 @@ En este curso vemos de todo:
 - Trucos muy copados del profe
 - Freddy cambiando la voz y representando a anita
 - Creado por el increible team Platzi
+- Incluye ejemplos en windows, linux y mac
