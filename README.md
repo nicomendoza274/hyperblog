@@ -13,3 +13,4 @@ En este curso vemos de todo:
 - El verdadero amor por las buenas practicas
 - Trucos muy copados del profe
 - Freddy cambiando la voz y representando a anita
+- Creado por el increible team Platzi
