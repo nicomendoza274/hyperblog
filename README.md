@@ -15,3 +15,4 @@ En este curso vemos de todo:
 - Freddy cambiando la voz y representando a anita
 - Creado por el increible team Platzi
 - Incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades
